@@ -5,6 +5,7 @@ Perform multiple linear regression analysis to identify which variables in the d
 
 ## Resources
 Data - MechaCar_mpg.csv, Suspension_Coil.csv
+
 Software – R Language 
 
 ## Deliverable 1:  Linear Regression to Predict MPG
