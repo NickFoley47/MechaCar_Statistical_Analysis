@@ -24,6 +24,7 @@ Lot 1 and lot 2 meet the design specification. Lot 1 variance is .979 and lot 2 
 
 ## Deliverable 3: T-Tests on Suspension Coils
 T-Test on Suspension Coils:
+
 ![ t-test-overall](https://github.com/NickFoley47/MechaCar_Statistical_Analysis/blob/main/Pics/t-test-overall.PNG)
 
 T-Test Lot 1:
