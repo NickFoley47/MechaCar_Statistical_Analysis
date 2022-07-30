@@ -49,7 +49,10 @@ Lot 1 P-Value is 1, lot 2 P-value is .6072 and lot 3 P-value is .04168. Lot 1 an
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 The metrics I would design my study around would be mpg, safety, horsepower, and maintenance cost. I feel these metrics are the most important to the consumer. 
+
 Null Hypothesis: There is no statistical difference between MechaCar maintenance cost and the maintenance cost of all other competitor vehicles.
+
 Alternative Hypothesis: There is statistical difference between MechaCar maintenance cost and the maintenance cost of all other competitor vehicles.
+
 I would conduct T-test to determine if there is statistical difference between MechaCar and other competitors. This would allow us to see if MechaCar is preforming better or worse than the competitors. 
 
